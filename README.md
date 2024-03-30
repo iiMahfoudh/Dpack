@@ -1,16 +1,9 @@
-<p><a target="_blank" href="https://app.eraser.io/workspace/qPQXJYz5S4iNe9JjpVFp" id="edit-in-eraser-github-link"><img alt="Edit in Eraser" src="https://firebasestorage.googleapis.com/v0/b/second-petal-295822.appspot.com/o/images%2Fgithub%2FOpen%20in%20Eraser.svg?alt=media&amp;token=968381c8-a7e7-472a-8ed6-4a6626da5501"></a></p>
+﻿# D-pack Project
+the **D**bloating script **Packs** is a simple tool to optimize windows 10/11 experience by deleting all windows junks and non sense games and apps ,
+the script is well orginized developed in Powershell luanguage , open source and you can totally scan the code before using it , Well orginized in GUI mode to simplify using it for non commands users
+# About Me
+I'm Sellakh Mahfoudh a Student of Sciences and technologies in Algeria , I study at CUNB 'Nour el bachir university center' , Now I'm Studing a branch of physic science which is Electricity and every thing related to electronics and logics boareds , very intersted in Math and technologies
+## If You're Still Reading Dont Forget to Star the Repo , thank you <3
 
-# +[﻿README](https://app.eraser.io/workspace/qPQXJYz5S4iNe9JjpVFp?origin=share) D-Pack A Debloating GUI script
-## Now Only For Windows 10/11
-i'm not resposible for any damage .
+> Sorry for my bad english i'm working to improve it...
 
-[﻿README](https://app.eraser.io/workspace/qPQXJYz5S4iNe9JjpVFp) 
-
----
-
-
-
-
-
-
-<!--- Eraser file: https://app.eraser.io/workspace/qPQXJYz5S4iNe9JjpVFp --->
